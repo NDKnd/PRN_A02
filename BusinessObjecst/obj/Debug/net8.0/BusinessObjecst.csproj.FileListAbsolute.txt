@@ -1,0 +1,14 @@
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BusinessObjecst\bin\Debug\net8.0\BusinessObjecst.deps.json
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BusinessObjecst\bin\Debug\net8.0\BusinessObjecst.runtimeconfig.json
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BusinessObjecst\bin\Debug\net8.0\BusinessObjecst.dll
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BusinessObjecst\bin\Debug\net8.0\BusinessObjecst.pdb
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BusinessObjecst\obj\Debug\net8.0\BusinessObjecst.csproj.AssemblyReference.cache
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BusinessObjecst\obj\Debug\net8.0\BusinessObjecst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BusinessObjecst\obj\Debug\net8.0\BusinessObjecst.AssemblyInfoInputs.cache
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BusinessObjecst\obj\Debug\net8.0\BusinessObjecst.AssemblyInfo.cs
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BusinessObjecst\obj\Debug\net8.0\BusinessObjecst.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BusinessObjecst\obj\Debug\net8.0\BusinessObjecst.dll
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BusinessObjecst\obj\Debug\net8.0\refint\BusinessObjecst.dll
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BusinessObjecst\obj\Debug\net8.0\BusinessObjecst.pdb
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BusinessObjecst\obj\Debug\net8.0\BusinessObjecst.genruntimeconfig.cache
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BusinessObjecst\obj\Debug\net8.0\ref\BusinessObjecst.dll

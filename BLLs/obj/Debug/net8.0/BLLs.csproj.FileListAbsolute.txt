@@ -1,0 +1,17 @@
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\bin\Debug\net8.0\BLLs.deps.json
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\bin\Debug\net8.0\BLLs.dll
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\bin\Debug\net8.0\BLLs.pdb
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\bin\Debug\net8.0\BusinessObjecst.dll
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\bin\Debug\net8.0\DataAccessLayer.dll
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\bin\Debug\net8.0\BusinessObjecst.pdb
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\bin\Debug\net8.0\DataAccessLayer.pdb
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\obj\Debug\net8.0\BLLs.csproj.AssemblyReference.cache
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\obj\Debug\net8.0\BLLs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\obj\Debug\net8.0\BLLs.AssemblyInfoInputs.cache
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\obj\Debug\net8.0\BLLs.AssemblyInfo.cs
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\obj\Debug\net8.0\BLLs.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\obj\Debug\net8.0\BLLs.csproj.Up2Date
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\obj\Debug\net8.0\BLLs.dll
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\obj\Debug\net8.0\refint\BLLs.dll
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\obj\Debug\net8.0\BLLs.pdb
+C:\Users\MyPC\OneDrive\Documents\Ch.nghanh5\PRN212\Lab&Assignment\NguyenDangKhoi_SE1856_A02\BLLs\obj\Debug\net8.0\ref\BLLs.dll
